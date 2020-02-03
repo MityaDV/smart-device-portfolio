@@ -1,1 +1,2 @@
-# smart-device-portfolio
+## smart-device-portfolio
+Проект создан при прохождении этапа Акселератора, на стажировке в Лиге А
